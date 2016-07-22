@@ -1,0 +1,43 @@
+{
+  "name": "geospatial-data-processor-and-visualizer",
+  "version": "1.0.0",
+  "description": "A real time geospatial data processor and visualizer disaster management application",
+  "keywords": [
+	"disaster",
+	"real-time",
+	"geospatial",
+	"visualizer"
+  ],
+  "dependencies": {},
+  "devDependencies":{},
+  "scripts": {
+    "install": "",
+    "start": "",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Coeus2016/geospatial-data-processor-and-visualizer.git"
+  },
+  "bugs":{
+	"url": "https://github.com/Coeus2016/geospatial-data-processor-and-visualizer/issues"
+  },
+  "contributors": [
+    {
+      "name": "Nsovo Baloyi",
+      "email": "nsovo.baloyi23@gmail.com"
+    },
+    {
+      "name": "Keletso Molefe",
+      "email": "patrickkeletso@gmail.com"
+    },
+    {
+      "name": "Kamogelo Tswene",
+      "email": "kamo.tswene@gmail.com"
+    },
+    {
+      "name": "Maluleki Nyuswa",
+      "email": "malunyz@yahoo.com"
+    }
+  ],
+  "license": "MIT"
