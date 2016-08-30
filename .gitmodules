@@ -1,6 +1,0 @@
-[submodule "web-interface"]
-	path = web-interface
-	url = https://github.com/Coeus2016/visualizer-web-interface.git
-[submodule "visualizer-server"]
-	path = visualizer-server
-	url = https://github.com/Coeus2016/visualizer-server.git

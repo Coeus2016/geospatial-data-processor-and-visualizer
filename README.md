@@ -27,7 +27,7 @@
 ###Installation Manual
 ********************************************************************************
 First of all you have to install <code>git</code>, <code>npm</code> and <code>node.js</code> to your box. More detailed installation instructions can
-be found in the [User Manual](http://sailsjs.org/#/getStarted?q=what-os-do-i-need) document.
+be found in the [User Manual](https://github.com/Coeus2016/GeospatialDataProcessorVisualiser_documentation) document.
 
 After that you need to download this repository and update the submodules. After which you should run the install command
 
@@ -43,11 +43,11 @@ Also you might need to run ```npm install``` command on each of those directorie
 ********************************************************************************
 ###User Manual
 ********************************************************************************
-[User Manual](http://sailsjs.org/#/getStarted?q=what-os-do-i-need) document.
+[User Manual](https://github.com/Coeus2016/GeospatialDataProcessorVisualiser_documentation) document.
 ********************************************************************************
 ###Team Members
 ********************************************************************************
 1. [Nsovo Baloyi](https://github.com/NsovoBaloyi)
-2. [Keletso Molefe](https://github.com/NsovoBaloyi)
-3. [Kamogelo Tswene](https://github.com/NsovoBaloyi)
-4. [Malu Nyuswa](https://github.com/NsovoBaloyi)
+2. [Keletso Molefe](https://github.com/keletsomolefe)
+3. [Kamogelo Tswene](https://github.com/u12163555)
+4. [Malu Nyuswa](https://github.com/MalulekiNyuswa)
