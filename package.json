@@ -11,9 +11,9 @@
   "dependencies": {},
   "devDependencies":{},
   "scripts": {
-    "install": "",
-    "start": "",
-    "test": ""
+    "install": "git submodule update --init --recursive && cd visualizer-server && npm install && cd ../web-interface && npm install",
+    "start": "cd visualizer-server && npm start && cd ../web-interface && npm start",
+    "test": "cd visualizer-server && npm test && cd ../web-interface && npm test"
   },
   "repository": {
     "type": "git",
@@ -41,3 +41,4 @@
     }
   ],
   "license": "MIT"
+}

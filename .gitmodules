@@ -4,6 +4,3 @@
 [submodule "visualizer-server"]
 	path = visualizer-server
 	url = https://github.com/Coeus2016/visualizer-server.git
-[submodule "visualizer-scrapper"]
-	path = visualizer-scrapper
-	url = https://github.com/Coeus2016/visualizer-scrapper.git
