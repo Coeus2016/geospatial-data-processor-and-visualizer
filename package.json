@@ -3,25 +3,26 @@
   "version": "1.0.0",
   "description": "A real time geospatial data processor and visualizer disaster management application",
   "keywords": [
-	"disaster",
-	"real-time",
-	"geospatial",
-	"visualizer"
+    "disaster",
+    "real-time",
+    "geospatial",
+    "visualizer"
   ],
-  "dependencies": {},
-  "devDependencies":{},
+  "dependencies": {
+  },
+  "devDependencies": {},
   "scripts": {
     "install": "git submodule update --recursive && cd visualizer-server && npm install && cd ../web-interface && npm install",
     "prestart": "npm install",
-    "start": "cd visualizer-server && npm start && cd ../web-interface && npm start",
+    "start": "cd web-server/ && npm start  && cd ../web-interface && npm start",
     "test": "cd visualizer-server && npm test && cd ../web-interface && npm test"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/Coeus2016/geospatial-data-processor-and-visualizer.git"
   },
-  "bugs":{
-	"url": "https://github.com/Coeus2016/geospatial-data-processor-and-visualizer/issues"
+  "bugs": {
+    "url": "https://github.com/Coeus2016/geospatial-data-processor-and-visualizer/issues"
   },
   "contributors": [
     {
