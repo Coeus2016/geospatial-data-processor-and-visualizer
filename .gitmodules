@@ -7,6 +7,6 @@
 	url = https://github.com/Coeus2016/visualizer-server
 	branch = develop
 [submodule "documentation"]
-	path = visualizer-server
+	path = documentation
 	url = https://github.com/Coeus2016/GeospatialDataProcessorVisualiser_documentation
 	branch = develop
